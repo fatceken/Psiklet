@@ -43,14 +43,14 @@ body {
   color: #656565;
 }
 #body-bg {
-  background-attachment: fixed;
-  background-clip: border-box;
-  background-color: #f0f0f0;
-  background-origin: padding-box;
-  background-position: 50% 0;
-  background-repeat: no-repeat;
-  background-size: cover !important;
-  position: relative;
+	background-attachment: fixed;
+	background-clip: border-box;
+	background-color: white;
+	background-origin: padding-box;
+	background-position: 50% 0;
+	background-repeat: no-repeat;
+	background-size: cover !important;
+	position: relative;
 }
 .container {
   max-width: 1080px;
@@ -597,7 +597,7 @@ p.site-slogan {
   background-color: #b3b3b3;
 }
 .background-gray-lighter {
-  background-color: #e6e6e6;
+	background-color: #b28556;
 }
 /* Button Colors */
 .btn {
